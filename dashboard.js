@@ -1,4 +1,4 @@
-const API_URL = window.location.origin;
+const API_URL = "https://chatbot-reclutamiento-cl32.onrender.com";
 
 const postulacionesList = document.getElementById("postulacionesList");
 const dashboardStatus = document.getElementById("dashboardStatus");
