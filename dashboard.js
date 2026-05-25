@@ -1,5 +1,4 @@
-const API_URL = window.location.origin;
-
+const API_URL = "https://chatbot-reclutamiento-cl32.onrender.com";
 /* =========================
    FIREBASE AUTH
 ========================= */
